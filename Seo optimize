@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Primary Meta Tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keyword-Rich Page Title (50-60 chars)</title>
+    <meta name="description" content="Compelling description with keywords (150-160 chars)">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:title" content="Title Here">
+    <meta property="og:description" content="Description Here">
+    <meta property="og:image" content="image-url.jpg">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://yourdomain.com/page-url">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Page Title",
+      "description": "Page Description"
+    }
+    </script>
+</head>
+<body>
+    <!-- Semantic HTML5 Elements -->
+    <header>
+        <nav aria-label="Main navigation">
+            <!-- Navigation links -->
+        </nav>
+    </header>
+    
+    <main>
+        <article>
+            <h1>Main Heading (Primary Keyword)</h1>
+            <section>
+                <h2>Subheading (Secondary Keyword)</h2>
+                <p>Content with <strong>important</strong> keywords naturally integrated.</p>
+                
+                <!-- Optimized Image -->
+                <img src="image.jpg" alt="Descriptive alt text with keyword" 
+                     width="800" height="600" loading="lazy">
+            </section>
+        </article>
+    </main>
+    
+    <footer>
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>
